@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Système
+.DS_Store
+Thumbs.db
+
+# ⚠️ Fichier de configuration sensible
+src/main/resources/hibernate.cfg.xml
